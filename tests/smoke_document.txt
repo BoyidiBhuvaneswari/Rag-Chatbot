@@ -1,0 +1,2 @@
+The Atlas project uses a blue deployment environment.
+Its maintenance window is every Tuesday at 09:30 UTC.

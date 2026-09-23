@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+chroma_db/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+venv-broken-backup/
+venv-partial-install/
+.pip-cache/
+.env.local
+*.log
